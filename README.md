@@ -12,4 +12,5 @@ Arish Petani @Arishpetani
 Samuel Suen @samsuen999
 Dan
 Data Model
-Screenshot 2024-10-16 at 3 07 15 PM
+![image](https://github.com/user-attachments/assets/e0b2278b-61aa-46a6-83e0-7f3ce04ae205)
+
